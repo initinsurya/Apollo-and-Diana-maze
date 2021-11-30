@@ -10,3 +10,4 @@ R-SW R-W B-E B-NE B-N B-NE R-N B-S
 R-E B-N R-E B-E B-S B-S R-NW R-E 
 R-SW B-NE B-S B-SE B-S B-S B-W R-NW 
 R-W B-NW R-S B-W R-W R-N B-NE O 
+![image](https://user-images.githubusercontent.com/65825453/143988371-eee0ac50-e8bc-4c8c-8d7d-a49af1130aa0.png)

@@ -123,7 +123,7 @@ def depth_first_traversal(node, visited, path):
             # Calculating the final output
             result += str(c) + maze_nodes["direction"][a]+" "
 
-        f = open("soln_path_list.txt", "w")
+        f = open(sys.argv[2], "w")
         # Writing the final output in a file
         f.write(result)
     else:
